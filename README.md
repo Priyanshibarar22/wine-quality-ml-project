@@ -4,7 +4,7 @@
 This project predicts the quality of red wine using machine learning.
 
 ## Dataset
-Wine Quality Red dataset attached above.
+Wine Quality Red dataset from UCI ML repository.
 
 ## Steps Performed
 - Data loading
